@@ -1,5 +1,5 @@
 
-# Projeto 1: Navbar Responsiva
+# Projeto: Navbar Responsiva
 
 Este é um projeto simples de Front-End com HTML, CSS e JavaScript puro.
 
