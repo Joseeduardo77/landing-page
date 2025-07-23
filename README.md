@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto 1: Navbar Responsiva
 
 Este é um projeto simples de Front-End com HTML, CSS e JavaScript puro.
@@ -23,3 +24,6 @@ Praticar conceitos de responsividade e interação com menu mobile.
 ---
 
 Desenvolvido por José Eduardo 💻
+=======
+
+>>>>>>> b05d9feecf4890b90ef0ef88e3276867f22303c8
